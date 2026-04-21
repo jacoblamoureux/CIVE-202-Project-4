@@ -30,6 +30,7 @@ We compare this with a custom weighted model that incorporates normalized variab
 | `GroupM_Project4_Report.docx`     | Written report summarizing findings, methodology, and ethical analysis              |
 | `Project-4_SOW_GroupM.docx`       | Scope of Work document                                                              |
 | `GroupM_Project4_GanttChart.xlsx` | Gantt chart of project activities                                                   |
+| `GroupM_Timesheet`                | Timesheet with bi.lling information                                                 |
 | `All_Data_File.zip`               | All raw and cleaned data files (see Data Setup below)                               |
 | `README.md`                       | This file                                                                           |
 
@@ -54,7 +55,7 @@ NRI_HazardInfo.csv
 
 ### Shapefiles
 
-Shapefiles used for mapping are hosted externally:
+The shapefiles were too large for github so they are accessible through a OneDrive link:
 https://1drv.ms/f/c/c49b30d93d0cb452/IgCRA_4WqOldQ6t60Px7XrLSAUMMAHcYx2c7rxdfJ4Jwrew?e=wVkm2S
 
 Download and place them in the same working directory (or update paths in the notebook if stored elsewhere).
