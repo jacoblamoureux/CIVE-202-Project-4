@@ -30,7 +30,7 @@ We compare this with a custom weighted model that incorporates normalized variab
 | `GroupM_Project4_Report.docx`     | Written report summarizing findings, methodology, and ethical analysis              |
 | `Project-4_SOW_GroupM.docx`       | Scope of Work document                                                              |
 | `GroupM_Project4_GanttChart.xlsx` | Gantt chart of project activities                                                   |
-| `GroupM_Timesheet`                | Timesheet with bi.lling information                                                 |
+| `GroupM_Timesheet`                | Timesheet with billing information                                                  |
 | `All_Data_File.zip`               | All raw and cleaned data files (see Data Setup below)                               |
 | `README.md`                       | This file                                                                           |
 
